@@ -39,6 +39,5 @@ Si vous souhaitez contribuer à ce projet, veuillez suivre ces étapes :
 ## Licence
 Ce projet est sous la [Licence MIT](https://opensource.org/licenses/MIT), ce qui signifie que vous pouvez l'utiliser et le modifier à vos propres risques. Veuillez noter que ce projet ne fournit aucune garantie quant à son exactitude ou sa compatibilité avec vos besoins spécifiques.
 
-## Contact
-Pour toute question ou commentaire, vous pouvez me contacter à l'adresse suivante : [votre-email@example.com](mailto:votre-email@example.com).
+
 
